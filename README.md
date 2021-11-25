@@ -8,7 +8,6 @@ How to Setup New Django Project
 - $ cd project-baru
 - $ python3 manage.py startapp web //membuat module baru
 - $ python3 manage.py runserver
-- $ python3 manage.py createsuperuser
 - $ python3 manage.py makemigrations
 - $ python3 manage.py migrate
-- 
+- $ python3 manage.py createsuperuser
